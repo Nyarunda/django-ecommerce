@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd586985-9dec-48f1-90cf-1bfcd9620676" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="django_ecommerce" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YaZpWA6kdtctmOnSg1ULxQfBH0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="django_ecommerce" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django_ecommerce" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="django_ecommerce.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd586985-9dec-48f1-90cf-1bfcd9620676" name="Default Changelist" comment="" />
+      <created>1583182848504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583182848504</updated>
+      <workItem from="1583182860581" duration="749000" />
+      <workItem from="1583183631374" duration="3004000" />
+      <workItem from="1583209168340" duration="9638000" />
+      <workItem from="1583473684363" duration="40461000" />
+      <workItem from="1583580934958" duration="2391000" />
+      <workItem from="1583584667092" duration="14101000" />
+      <workItem from="1583733913622" duration="43542000" />
+      <workItem from="1584191769225" duration="36632000" />
+      <workItem from="1584570002306" duration="10742000" />
+      <workItem from="1584793018825" duration="760000" />
+      <workItem from="1584793808691" duration="159000" />
+      <workItem from="1585027390593" duration="559000" />
+      <workItem from="1585027967455" duration="2928000" />
+      <workItem from="1585200292158" duration="683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="214" width="800" height="677" key="#Notifications" timestamp="1584793824659">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="214" width="800" height="677" key="#Notifications/0.27.1920.1053@0.27.1920.1053" timestamp="1584793824659" />
+    <state x="963" y="213" width="800" height="677" key="#Other_File_Types" timestamp="1584249486224">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="963" y="213" width="800" height="677" key="#Other_File_Types/0.27.1920.1053@0.27.1920.1053" timestamp="1584249486224" />
+    <state x="665" y="101" width="1089" height="678" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585028243819">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="665" y="100" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583209189200" />
+    <state x="665" y="101" width="1089" height="678" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1585028243819" />
+    <state x="1086" y="277" width="624" height="550" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585200648854">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="1086" y="277" width="624" height="550" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1585200648854" />
+    <state x="1101" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584523908266">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1101" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584523908266" />
+    <state x="548" y="69" width="814" height="965" key="#django_ecommerce" timestamp="1585027971090">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="548" y="69" width="814" height="965" key="#django_ecommerce/0.28.1920.1052@0.28.1920.1052" timestamp="1585027971090" />
+    <state x="685" y="252" width="530" height="594" key="FileChooserDialogImpl" timestamp="1585028421474">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="685" y="252" width="530" height="594" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1585028421474" />
+    <state width="1338" height="246" key="GridCell.Tab.0.bottom" timestamp="1585029411489">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1154" height="253" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1583661395949" />
+    <state width="1338" height="246" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1585029411489" />
+    <state width="1338" height="246" key="GridCell.Tab.0.center" timestamp="1585029411487">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1154" height="253" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1583661395949" />
+    <state width="1338" height="246" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1585029411487" />
+    <state width="1338" height="246" key="GridCell.Tab.0.left" timestamp="1585029411486">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1154" height="253" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1583661395949" />
+    <state width="1338" height="246" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1585029411486" />
+    <state width="1338" height="246" key="GridCell.Tab.0.right" timestamp="1585029411488">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1154" height="253" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1583661395949" />
+    <state width="1338" height="246" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1585029411488" />
+    <state width="263" height="541" key="HiddenNamespacesPopup" timestamp="1584523896300">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="263" height="541" key="HiddenNamespacesPopup/0.27.1920.1053@0.27.1920.1053" timestamp="1584523896300" />
+    <state x="653" y="175" width="824" height="526" key="IDE.errors.dialog" timestamp="1583186587766">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="653" y="175" width="824" height="526" key="IDE.errors.dialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583186587766" />
+    <state x="563" y="175" key="SettingsEditor" timestamp="1585200367190">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="563" y="323" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1583478021949" />
+    <state x="563" y="175" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1585200367190" />
+    <state x="530" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1585027394682">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="530" y="343" key="com.intellij.ide.util.TipDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1585027394682" />
+  </component>
+</project>
